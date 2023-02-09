@@ -391,3 +391,11 @@ or
 ```
 docker compose up
 ```
+###### Step 12: Update firewall with port 8080, 8081 
+###### Step 13: open java app web and phpmyadmin on browser
+```
+159.89.124.249:8080 
+```
+```
+159.89.124.249:8081
+```
