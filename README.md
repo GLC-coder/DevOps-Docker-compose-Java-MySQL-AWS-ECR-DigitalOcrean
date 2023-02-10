@@ -2,7 +2,7 @@
 
 Create a Droplet server on DigitalOcrean, build and push Java application docker image to AWS ECR and use run Java app, MySql and MySql UI containers on server by docker-compose
 
-[Java App](htpp://159.89.124.249:8080)
+[Java App](http://159.89.124.249:8080)
 
 [MySQL - phpmyadmin](http://159.89.124.249:8081)
 
