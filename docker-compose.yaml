@@ -1,7 +1,7 @@
 version: '3'
 services:
   my_java_app:
-    image: 118381122830.dkr.ecr.ap-southeast-2.amazonaws.com/java-app:2.0
+    image: 118381122830.dkr.ecr.ap-southeast-2.amazonaws.com/java-app:3.0-amd64
     ports:
       - "8080:8080"
     environment:
